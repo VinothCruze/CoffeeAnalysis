@@ -25,7 +25,7 @@ In this project, Analyzing coffee data from Kaggle for the quality predictions b
 
 ## Code
 
-You can find the code for this project [here](https://github.com/dataquestio/project-walkthroughs/tree/master/kmeans).
+You can find the code for this project [here](https://github.com/VinothCruze/CoffeeAnalysis/blob/main/Coffee_Quality_Analysis.ipynb).
 
 File overview:
 
